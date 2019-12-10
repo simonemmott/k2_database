@@ -4,7 +4,7 @@ All the data and configuration details of the K2 database are stored in a single
 
 The directory is referenced as `K2DB_HOME`
 
-![](https://www.lucidchart.com/publicSegments/view/3e34cd42-109e-4727-8b12-a364ca6e449c/image.png)
+![](k2db-filesystem.png)
 
 ## Top-level Database Directories
 
